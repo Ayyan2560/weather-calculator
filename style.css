@@ -9,9 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(images/inspiring-view-sunrise-light.jpg);
-
-}
+    background: url(images/inspiring-view-sunrise-light.jpg);}
 .card{
     background-color: #ffffff;
     padding: 35px;
